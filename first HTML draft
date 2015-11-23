@@ -1,44 +1,69 @@
-<!--My basic HTML markup, will add CSS next-->
-<!doctype html>
-<body>
-     <h1>Fred Nyambati</h1>
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="icon" href="../../favicon.ico">
+        <title>Fred's bootstrap project</title>
+        <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="Utah.css" rel="stylesheet">
+        <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+    </head>
+    
+    <body>
+        <div class="jumbotron">
+             <h1> My Journey to Utah</h1>
 
-     <h2>About Me</h2>
+            <p>From Noob to Bootcamp Student</p>
+        </div>
+         <h2>About Me</h2>
 
-    <div class="about">
-        <p>I'm a 20 year-old aspiring Web Developer from Baltimore, Maryland. I began to code about 3 months ago. Before I comitted myself to coding, I was a college student studying Biology. I enjoyed the lab setting a lot, but when I started to code.</p>
-        <p>It intrested me, as I kept dabbling I began to love it. I wanted to make a career out of it but I didn't want to change my major and spend thousands of dollars on top of what I already owe in student Loans. Thats when I stumbled upon programming bootcamps.</p>
-    </div>
-     <h2>My Bootcamp search</h2>
+        <p>My full name is Fred Nyambati and I'm 20 years old, I'm coming to DevMountain from Maryland, where I was a student. Things I like to do are coding(obviously), watching and playing football, and anything to do with Boston sports.</p>
+         <h2>Why Programming?</h2>
 
-    <div class="search">
-        <p>When I started my Bootcamp search, the very first bootcamp I came across was <a href "http://hackreactor.com/">Hack Reactor</a>. I only found it because a youtube <a href "https://www.youtube.com/watch?v=AI6A1WIJJRg">video</a> was the first result to pop-up. Looking back at it, these bootcamps are amazing at marketing.</p>
-        <p>They have the same trend of throwing out graduate salaries, even though most are in San Francisco and New York, where the cost of living makes that very average unless you live by yourself, but hey, hindsight is 20/20.</p>
-        <p>I found a bootcamp in Oakland called Coder Camps. I Liked the program so I applied, I got in and was about a month from enrolling, financial problems came up with financing the camp that forced me to drop out. that was for the best because I started to develop cold feet.</p>
-    </div>
-    <p>Maybe it was for the best....</p>
-     <h2>How I found DevMountain</h2>
+        <p>I tried programming on a online <a href="https://code.org/">game</a> that I had fun using, mind you, I have never coded in my life. I wanted to learn more so I started to take classes at <a href="https://www.codecademy.com/learn"> codecademy </a> I took a HTML and CSS and enjoyed it. I read on Quora that Javascript is a great language to learn so I went with it and took the Javascript course. I enjoyed that too. I wondered to myself if I wanted to make a career out of it. After another javascript course on <a href="https://wwww.codeschool.com">CodeSchool</a> my fate was sealed.</p>
+         <h2>Why a Bootcamp???</h2>
 
-    <div class="dev">
-        <p>I should've added before I even applied to coder camps, I took a precourse with Telegraph Prep that prepares you for the challenging technical interviews that you will face with most 5-star Bootcamps.</p>
-        <p>During that I got to meet a classmate of mine that was very intrested in DevMountain. He ended up enrolling in DevMountain's Dallas. What set DevMountain apart was definitely the affordability. It was $8,900 total compared to Coder Camps' $13,600. Another advantage was the free housing.</p>
-        <p>In Fact, the only things I am paying for are my plane ticket, food, and the Uber ride to the apartment from the airport. So when I begin class, all that I'll need is a attitude ready to learn and begin my journey into being a Software developer.</p>
-    </div>
-     <h2>What I want to get out of the program</h2>
+        <p>Before I get to my selection process I want to briefly explain why I decided to attend a bootcamp instead of just getting a computer science degree. Before I comitted to bootcamps I had been a biology major looking to become a pharmacist. I enjoyed it but I actually had fun coding. I didnt want to change majors and take on thousands of dollars in additional student loan debt, so I realized that bootcamps would make the most sense.</p>
+         <h2>What I wanted out of a bootcamp</h2>
 
-    <div class="wants">
-        <p>I want to learn as much as I can while I'm here. I want to use this bootcamp as a launchpad for my career. More reasons for picking Dev mountain, I wanted to learn Javascript because of its versatility. Dev Mountain does the MEAN stack of MongoDB, Express.js, Angular.js, and Node.js.</p>
-        <p>But the part that sealed the deal. I took a look at pictures of the campus and surroundings, Provo is just beautiful to look at. So I'm extremely confident I made the right choice!</p>
-    </div>
-     <h2>Goals and Aspirations</h2>
-
-    <div class="goals">
-        <p>As far as goals go in the short term, I would like to learn as much as I can and get the portfolio to land a job as a Software Developer/Engineer. I'd like to specialize in Node or Angular. As far as a company, Id like to work for a larger comapany to start, but I wouldn't mind using my talents at a startup.</p>
-        <p>Long-term I would love to pursue entrepenurship while I'm still in my youth. Start a buisness, or maybe create a app.(Maybe learn how to do that in Dev Mountains IOS course!). I would love to start my career in the west coast, Seattle, maybe the Bay Area. But my heart is definitely in Los Angeles as a dream city to live in!</p>
-    </div>
-</body>
-<footer>
-    <p>Created By Fred Nyambati</p>
-</footer>
+        <ul>
+            <li><a href="mean.io">MEAN</a> stack</li>
+            <li> A Great Hiring Rate </li>
+            <li> A Great Value </li>
+            <li> Great Program and Instructors </li>
+            <li>Beginner Friendly and can help you develop</li>
+            <li>Location, Location, Location</li>
+        </ul>
+        <h2>The Bootcamp Search</h2>
+          <p>Considering my expectations of a bootcamp Im going to make a list of all the bootcamps I considered in order of my preferred pick down to the ones I used as a last resort</p>
+          <ol>
+            <li><a href="http://www.hackreactor.com/">HackReactor</a>
+            <li><a href="http://www.fullstackacademy.com/">Fullstack Academy</a>
+            <li><a href="http://www.makersquare.com/">MakerSquare</a>
+            <li><a href="http://www.appacademy.io/">AppAcademy</a>
+            <li><a href="http://devbootcamp.com/">DevBootcamp</a>
+            <li><a href="https://devmounta.in/">DevMountain</a>
+            <li><a href="http://www.thesoftwareguild.com/">The Software Guild</a>
+            <li><a href="https://www.codercamps.com/home/index">Coder Camps</a>
+            <li><a href="http://www.epicodus.com/">Epicodus</a>
+            <li>Online alternatives <a href="http://www.vikingcodeschool.com/">The Viking School</a> and <a href="https://www.bloc.io/">Bloc</a>
+          </ol>
+          <h2>Narrowing It Down</h2>
+          <p> Right off the bat I wanted to learn the MEAN stack, so App Academy, Devbootcamp, Epicodus, and The Software guld were out. Next, I didnt trust myself learning online in a immersive enviroment so Bloc and Viking School were out. I wanted a beginner friendly bootcamp, so HackReactor was out. They preach they go from 20-120, but most of their students are already developers and I feel that it is elitist now. Value was big for me so Fullstack was out, even though it was an amazing school. But $17,000 was too much for me. That Leaves Coder Camps and DevMountain. I decided to choose Coder Camps due to the SF location. After going through the application and pre work, I got cold feet about the program and results, with the help of a DevMountain student, I decided to shift to DevMountain. It had a great value, proven program, the mountains are beautiful, and it isn't elitist. at the same time they are selective of their students. Unlike Coder Camps, who let me in without having a proper coding challenge.</p>
+          <h2>Preparing Myself and Expectations</h2>
+            <p>DevMountain is a great program so I wanted to make sure my skill are up to par, I recieved the the book <a href="http://www.asmarterwaytolearn.com/"> "A smarter way to learn Javascript"</a>. It was a great book and I highly recommend it, they also gave some resources to further my skills. I also wanted to make my on website as practice, which is what I'm doing now! I feel like Im as ready as I'll ever be and I am extremely excited. My expectations out of the course is to learn as much as I can and network with my classmates and instructors. I also plan on using my newly aquired skills to land a job as a web developer, software developer, software engineer, etc.
+            I leave in one week, and my journey to Utah will finally begin. </p>
+        <footer>
+            <p>&copy; By Fred Nyambati</p>
+        </footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="../../dist/js/bootstrap.min.js"></script>
+        <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    </body>
 
 </html>
