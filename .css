@@ -1,0 +1,34 @@
+h1 {
+	background-image: url(https://goo.gl/QRRFcH);
+	padding: 200px;
+	text-align: center;
+	font-size: 150px;
+	color: #ffffff;
+	
+}
+body {
+  background-color: #b9b6b2;
+}
+p {
+	font-size: 18px;
+	text-indent: 50px;
+	padding-left: 25px;
+	padding-right: 20px;
+	border-style: groove;
+}
+.bootcamp {
+	padding-left: 50px;
+}
+h2 {
+	padding-left: 25px;
+	font-family: sans-serif;
+}
+.bootcamp p {
+	text-indent: 50px;
+}
+.jumbotron p {
+	text-align: center;
+}
+li {
+	font-size: 18px;
+}
